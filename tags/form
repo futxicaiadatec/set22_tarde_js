@@ -1,0 +1,5 @@
+<form action="outro.destino.com/proc/form" method="get" target="_blank" enctype="multipart/form-data">
+  <input type="text" name="in_1"><br>
+  <input type="text" name="in_2"><br>
+  <input type="submit" value="Submit">
+</form>
