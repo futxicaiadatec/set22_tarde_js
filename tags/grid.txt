@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>empty</title>
+<title>grid</title>
 <style>
 body {  
   background-size: 40px 40px;

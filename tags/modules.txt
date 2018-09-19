@@ -1,0 +1,11 @@
+<script type="module">
+  import add from '192.168.200.210:8083/sum.js'
+  window.add = add
+
+  /*
+  **
+  ** Várias funções para javascript
+  ** https://github.com/1-liners/1-liners/tree/master/documentation
+  */
+
+</script>
