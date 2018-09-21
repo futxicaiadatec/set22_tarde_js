@@ -1,0 +1,8 @@
+var ajax = fetch('http://localhost:8081/fetch.txt')
+
+function text (e) {
+  return e.text()
+}
+var atex = ajax.then(text)
+
+atex.then(consol.log)

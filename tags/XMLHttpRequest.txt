@@ -1,0 +1,6 @@
+var ajax = new XMLHttpRequest()
+
+ajax.onload = console.dir
+
+httpRequest.open('GET', 'http://localhost:8081/SMLHttpRequest.txt');
+httpRequest.send();
